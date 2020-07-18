@@ -1,2 +1,2 @@
 # dronWithTim
-Repo for Android cuurse
+Repo for Android course
